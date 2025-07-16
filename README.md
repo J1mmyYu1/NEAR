@@ -1,5 +1,13 @@
 # NEAR: Neural Electromagnetic Array Response
 
+## Quick Start
+```cmd
+pip install \
+    numpy==1.24.3 \
+    scipy==1.16.0 \
+    torch==2.2.0
+```
+
 ## Running the model
 The example command below runs with the default simulation configuration; replace it with the appropriate configuration file when testing other scenarios—such as different SNR regimes or target counts.
 ### Simulations
