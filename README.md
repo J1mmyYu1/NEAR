@@ -3,7 +3,8 @@
 ## Quick Start
 ### Setup
 ```cmd
-
+git clone https://github.com/J1mmyYu1/NEAR.git
+cd NEAR
 ```
 ### Dependencies
 ```cmd
